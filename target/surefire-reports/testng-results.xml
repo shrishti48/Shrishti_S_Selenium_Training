@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="23" passed="22" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-24T09:01:33 IST" name="Sapient" finished-at="2022-11-24T09:02:05 IST" duration-ms="31913">
+    <groups>
+    </groups>
+    <test started-at="2022-11-24T09:01:33 IST" name="Test" finished-at="2022-11-24T09:02:05 IST" duration-ms="31913">
+      <class name="testNGPractice.MYFirstSeleniumScript3Test">
+        <test-method signature="test11()[pri:0, instance:testNGPractice.MYFirstSeleniumScript3Test@28f2a10f]" started-at="2022-11-24T09:01:33 IST" name="test11" finished-at="2022-11-24T09:01:37 IST" duration-ms="3210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+      </class> <!-- testNGPractice.MYFirstSeleniumScript3Test -->
+      <class name="testNGPractice.FirstTestNGTestTest">
+        <test-method signature="createAccount()[pri:0, instance:testNGPractice.FirstTestNGTestTest@7133da86]" started-at="2022-11-24T09:01:33 IST" name="createAccount" finished-at="2022-11-24T09:01:33 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method signature="deleteAccount()[pri:0, instance:testNGPractice.FirstTestNGTestTest@7133da86]" started-at="2022-11-24T09:01:33 IST" name="deleteAccount" finished-at="2022-11-24T09:01:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAccount -->
+        <test-method signature="logout()[pri:0, instance:testNGPractice.FirstTestNGTestTest@7133da86]" started-at="2022-11-24T09:01:33 IST" name="logout" finished-at="2022-11-24T09:01:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="login()[pri:1, instance:testNGPractice.FirstTestNGTestTest@7133da86]" started-at="2022-11-24T09:01:33 IST" name="login" finished-at="2022-11-24T09:01:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- testNGPractice.FirstTestNGTestTest -->
+      <class name="testNGPractice.MyFirstSeleniumScriptTest">
+        <test-method signature="test5()[pri:0, instance:testNGPractice.MyFirstSeleniumScriptTest@f736069]" started-at="2022-11-24T09:01:43 IST" name="test5" finished-at="2022-11-24T09:01:48 IST" duration-ms="4671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- testNGPractice.MyFirstSeleniumScriptTest -->
+      <class name="testNGPractice.HandleAutoSuggestionsTest">
+        <test-method signature="test6()[pri:0, instance:testNGPractice.HandleAutoSuggestionsTest@4d0f2471]" started-at="2022-11-24T09:01:43 IST" name="test6" finished-at="2022-11-24T09:01:52 IST" duration-ms="8714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- testNGPractice.HandleAutoSuggestionsTest -->
+      <class name="testNGPractice.day1AssignmentTest">
+        <test-method signature="test()[pri:0, instance:testNGPractice.day1AssignmentTest@e15b7e8]" started-at="2022-11-24T09:01:33 IST" name="test" finished-at="2022-11-24T09:01:43 IST" duration-ms="9900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testNGPractice.day1AssignmentTest -->
+      <class name="testNGPractice.AssertionDemoTest">
+        <test-method signature="test1()[pri:0, instance:testNGPractice.AssertionDemoTest@1b2abca6]" started-at="2022-11-24T09:01:33 IST" name="test1" finished-at="2022-11-24T09:01:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:testNGPractice.AssertionDemoTest@1b2abca6]" started-at="2022-11-24T09:01:33 IST" name="test2" finished-at="2022-11-24T09:01:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test4()[pri:0, instance:testNGPractice.AssertionDemoTest@1b2abca6]" started-at="2022-11-24T09:01:33 IST" name="test4" finished-at="2022-11-24T09:01:33 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test3()[pri:0, instance:testNGPractice.AssertionDemoTest@1b2abca6]" started-at="2022-11-24T09:01:33 IST" name="test3" finished-at="2022-11-24T09:01:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- testNGPractice.AssertionDemoTest -->
+      <class name="testNGPractice.MyFirstSeleniumScript4Test">
+        <test-method signature="test4()[pri:0, instance:testNGPractice.MyFirstSeleniumScript4Test@32ee6fee]" started-at="2022-11-24T09:01:37 IST" name="test4" finished-at="2022-11-24T09:01:43 IST" duration-ms="6402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- testNGPractice.MyFirstSeleniumScript4Test -->
+      <class name="testNGPractice.SmokeTestTest">
+        <test-method is-config="true" signature="steup()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:01:33 IST" name="steup" finished-at="2022-11-24T09:01:38 IST" duration-ms="4880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- steup -->
+        <test-method signature="BlankLogin()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:01:38 IST" name="BlankLogin" finished-at="2022-11-24T09:01:38 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BlankLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:01:38 IST" name="tearDown" finished-at="2022-11-24T09:01:39 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="steup()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:01:39 IST" name="steup" finished-at="2022-11-24T09:01:42 IST" duration-ms="3479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- steup -->
+        <test-method signature="BlankPassword()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:01:42 IST" name="BlankPassword" finished-at="2022-11-24T09:01:42 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BlankPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:01:42 IST" name="tearDown" finished-at="2022-11-24T09:01:43 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="steup()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:01:43 IST" name="steup" finished-at="2022-11-24T09:01:47 IST" duration-ms="3999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- steup -->
+        <test-method signature="InavlidCredentials()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:01:47 IST" name="InavlidCredentials" finished-at="2022-11-24T09:01:48 IST" duration-ms="1482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InavlidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:01:48 IST" name="tearDown" finished-at="2022-11-24T09:01:49 IST" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="steup()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:01:49 IST" name="steup" finished-at="2022-11-24T09:01:54 IST" duration-ms="5066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- steup -->
+        <test-method signature="ValidCredentials()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:01:54 IST" name="ValidCredentials" finished-at="2022-11-24T09:01:58 IST" duration-ms="4184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:01:58 IST" name="tearDown" finished-at="2022-11-24T09:01:58 IST" duration-ms="299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="steup()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:01:58 IST" name="steup" finished-at="2022-11-24T09:02:02 IST" duration-ms="3493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- steup -->
+        <test-method signature="verifyTitle()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:02:02 IST" name="verifyTitle" finished-at="2022-11-24T09:02:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:02:02 IST" name="tearDown" finished-at="2022-11-24T09:02:02 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="steup()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:02:02 IST" name="steup" finished-at="2022-11-24T09:02:05 IST" duration-ms="3368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- steup -->
+        <test-method signature="verifyURL()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:02:05 IST" name="verifyURL" finished-at="2022-11-24T09:02:05 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNGPractice.SmokeTestTest@56cdfb3b]" started-at="2022-11-24T09:02:05 IST" name="tearDown" finished-at="2022-11-24T09:02:05 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNGPractice.SmokeTestTest -->
+      <class name="testNGPractice.AssertDemo2Test">
+        <test-method signature="test1()[pri:0, instance:testNGPractice.AssertDemo2Test@47faa49c]" started-at="2022-11-24T09:01:33 IST" name="test1" finished-at="2022-11-24T09:01:33 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:testNGPractice.AssertDemo2Test@47faa49c]" started-at="2022-11-24T09:01:33 IST" name="test2" finished-at="2022-11-24T09:01:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- testNGPractice.AssertDemo2Test -->
+      <class name="testNGPractice.LoginCategoryTest">
+        <test-method signature="test7()[pri:0, instance:testNGPractice.LoginCategoryTest@7e5afaa6]" started-at="2022-11-24T09:01:48 IST" name="test7" finished-at="2022-11-24T09:01:55 IST" duration-ms="7139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+      </class> <!-- testNGPractice.LoginCategoryTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Sapient -->
+</testng-results>

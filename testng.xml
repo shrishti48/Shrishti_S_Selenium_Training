@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="classes" name="Sapient">
+  <test thread-count="3" parallel="classes" name="Test">
+    <classes>
+      <class name="testNGPractice.LoginCategoryTest"/>
+      <class name="testNGPractice.MyFirstSeleniumScript4Test"/>
+      <class name="testNGPractice.HandleAutoSuggestionsTest"/>
+      <class name="testNGPractice.FirstTestNGTestTest"/>
+      <class name="testNGPractice.AssertDemo2Test"/>
+      <class name="testNGPractice.MYFirstSeleniumScript3Test"/>
+      <class name="testNGPractice.HandleDynamicAlertsTest"/>
+      <class name="testNGPractice.MyFirstSeleniumScriptTest"/>
+      <class name="testNGPractice.SmokeTestTest"/>
+      <class name="testNGPractice.day1AssignmentTest"/>
+      <class name="testNGPractice.AssertionDemoTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Sapient -->

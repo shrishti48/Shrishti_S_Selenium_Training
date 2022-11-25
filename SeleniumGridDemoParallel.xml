@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="5" parallel="tests" name="Suite">
+  <test name="Chrome">
+<parameter name="browserName" value="Chrome"/>
+<parameter name="browserVersion" value="105"/>
+<parameter name="os" value="Windows"/>
+<parameter name="osVersion" value="10"/>
+    <classes>
+      <class name="day5.SeleniumGridDemoParallel"/>
+    </classes>
+    </test>
+ 
+  <test name="FireFox">
+<parameter name="browserName" value="Firefox"/>
+<parameter name="browserVersion" value="latest"/>
+<parameter name="os" value="Windows"/>
+<parameter name="osVersion" value="10"/>
+    <classes>
+      <class name="day5.SeleniumGridDemoParallel"/>
+    </classes>
+    </test>
+    
+    <test name="Edge">
+<parameter name="browserName" value="Edge"/>
+<parameter name="browserVersion" value="100"/>
+<parameter name="os" value="Windows"/>
+<parameter name="osVersion" value="10"/>
+    <classes>
+      <class name="day5.SeleniumGridDemoParallel"/>
+    </classes>
+    </test>
+    
+    <test name="Mac">
+<parameter name="browserName" value="Chrome"/>
+<parameter name="browserVersion" value="102"/>
+<parameter name="os" value="OS X"/>
+<parameter name="osVersion" value="Monterey"/>
+    <classes>
+      <class name="day5.SeleniumGridDemoParallel"/>
+    </classes>
+    </test>
+  
+  <test name="Mac1">
+<parameter name="browserName" value="Firefox"/>
+<parameter name="browserVersion" value="100"/>
+<parameter name="os" value="OS X"/>
+<parameter name="osVersion" value="Ventura"/>
+    <classes>
+      <class name="day5.SeleniumGridDemoParallel"/>
+    </classes>
+    </test>
+</suite> <!-- Suite -->
